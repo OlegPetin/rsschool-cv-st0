@@ -1,29 +1,29 @@
-Petin Oleg
-Contacts
+#Petin Oleg
+#Contacts
 Location: Tambov, Russian Federation 
 Email: olegpetin87@gmail.com
 Discord:bobaleh#9058
 GitHub: OlegPetin
-About Me
+#About Me
 
 
-Skills
+#Skills
 HTML
 CSS/SASS
 SQL
 JavaScript (Basic)
 
-Code Example
+#Code Example
 function sum(a, b) {
   return a + b;
 }
 let result = sum(1, 2);
 alert( result );
-Experience
-Education
+#Experience
+#Education
 University: Tambov State Technical University
-Courses:
+#Courses:
 Aptech Russia
 
-English
+#English
 A2
