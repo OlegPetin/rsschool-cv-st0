@@ -25,7 +25,7 @@ no experience in it
 # Education
 University: Tambov State Technical University
 # Courses:
-[http://aptech-russia.com/] [Aptech Russia] 
+[http://aptech-russia.com/][Aptech Russia] 
 
 # English
 A2
