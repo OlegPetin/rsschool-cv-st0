@@ -2,17 +2,16 @@
 ## Contacts
 * Location: Tambov, Russian Federation 
 * Email: olegpetin87@gmail.com
-* Discord:bobaleh#9058
-GitHub: OlegPetin
+* Discord: bobaleh#9058
+* GitHub: OlegPetin
 ## About Me
 I want to learn programming
 
 ## Skills
-HTML
-CSS/SASS
-SQL
-JavaScript (Basic)
-
+* HTML
+* CSS/SASS
+* SQL
+* C
 ## Code Example
 ```
 function sum(a, b) {
@@ -26,7 +25,8 @@ no experience in it
 # Education
 University: Tambov State Technical University
 # Courses:
-[Aptech Russia] (http://aptech-russia.com/)
+Aptech Russia [Tag1]
+[Tag1][http://aptech-russia.com/]
 
 # English
 A2
