@@ -1,26 +1,28 @@
 # Petin Oleg
-# Contacts
-Location: Tambov, Russian Federation 
-Email: olegpetin87@gmail.com
-Discord:bobaleh#9058
+## Contacts
+* Location: Tambov, Russian Federation 
+* Email: olegpetin87@gmail.com
+* Discord:bobaleh#9058
 GitHub: OlegPetin
-# About Me
-no experience in it
+## About Me
+I want to learn programming
 
-# Skills
+## Skills
 HTML
 CSS/SASS
 SQL
 JavaScript (Basic)
 
-# Code Example
+## Code Example
+```
 function sum(a, b) {
   return a + b;
 }
 let result = sum(1, 2);
 alert( result );
-# Experience
-
+```
+## Experience
+no experience in it
 # Education
 University: Tambov State Technical University
 # Courses:
