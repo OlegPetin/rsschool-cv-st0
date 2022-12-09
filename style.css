@@ -1,9 +1,28 @@
 .block_center{
-  width: 900px;
+  width: 90%;
   margin: 20px auto;
 }
 h1 {
-    color: blue;
-    background-color: yellow;
-    border: 1px solid black;
+    color: rgb(25, 0, 255);
+  }
+.menu{
+    display: flex;
+     }
+.menu li{
+  list-style-type: none;
+  margin: 10px;
+  }
+.menu li a{
+    text-decoration: none;
+  }
+.footer_menu {
+    display: flex;
+    align-items: stretch;
+    align-items: center;
+  }
+.footer_menu div{
+   margin: 30px;   
+  }
+ .footer_menu img{
+    width: 150px;
   }
