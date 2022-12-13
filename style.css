@@ -1,7 +1,8 @@
-.block_center{
+.block_center{ 
+  align-items: center;
   width: 90%;
   margin: 20px auto;
-}
+ }
 h1 {
     color: rgb(25, 0, 255);
   }
@@ -25,4 +26,7 @@ h1 {
   }
  .footer_menu img{
     width: 150px;
+  }
+  #text_cv {
+    padding-left: 20px;
   }
