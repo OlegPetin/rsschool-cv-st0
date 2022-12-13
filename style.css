@@ -1,17 +1,36 @@
+html {
+  scroll-behavior: smooth;
+}
+section{
+  margin: 20px;
+}
 .block_center{ 
-  align-items: center;
-  width: 90%;
-  margin: 20px auto;
+  width: 1024px; 
+  margin: auto;
+  }
+  .block_center h1{
+    text-align: center;
+  }
+ .avatar{
+  text-align: center;
+
+ }
+ #main_div{
+  background: linear-gradient(to bottom, #e0ecec 0%, #c8ddb3 108%);
+  margin: 20px;
  }
 h1 {
     color: rgb(25, 0, 255);
   }
 .menu{
     display: flex;
+    font-weight: 600;
+    font-size: 24px;
      }
 .menu li{
-  list-style-type: none;
-  margin: 10px;
+    list-style-type: none;
+    margin: 30px;
+    
   }
 .menu li a{
     text-decoration: none;
@@ -20,13 +39,20 @@ h1 {
     display: flex;
     align-items: stretch;
     align-items: center;
+    font-size: 16px;
+    font-weight: 800;
+
   }
 .footer_menu div{
-   margin: 30px;   
+   margin: 30px;
+   width: 150px;
+   text-align: center;
   }
+
  .footer_menu img{
     width: 150px;
   }
+
   #text_cv {
     padding-left: 20px;
   }
